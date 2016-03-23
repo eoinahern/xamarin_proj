@@ -1,0 +1,14 @@
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\obj\Debug\assemblies\MyAIB.dll
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\obj\Debug\assemblies\Newtonsoft.Json.dll
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\obj\Debug\assemblies\System.Core.dll
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\obj\Debug\assemblies\System.dll
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\obj\Debug\assemblies\Xamarin.Android.Support.Design.dll
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\obj\Debug\assemblies\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\obj\Debug\assemblies\System.ServiceModel.Internals.dll
