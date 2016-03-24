@@ -4,7 +4,7 @@
   <uses-sdk android:minSdkVersion="16" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-  <application android:label="MyAIB" android:theme="@style/MyTheme" android:name="md5b74ca1b5e8454673270e5e34165649d5.MyApplication" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+  <application android:label="MyAIB" android:theme="@style/MyTheme" android:name="md5b74ca1b5e8454673270e5e34165649d5.MyApplication" android:screenOrientation="portrait" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
     <activity android:icon="@drawable/icon" android:label="MyAIB" android:name="md53ac8ff3d23ab4df116bafa0c3c02b599.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

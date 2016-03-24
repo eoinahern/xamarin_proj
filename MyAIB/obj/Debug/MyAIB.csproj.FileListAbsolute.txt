@@ -23,5 +23,10 @@ C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\obj\Debug\res\va
 C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\obj\Debug\res\drawable\header.png
 C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\obj\Debug\R.cs.flag
 C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\obj\Debug\uploadflags.txt
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\obj\Debug\res\layout\empty_card_layout.xml
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\obj\Debug\res\drawable\torq_card_gradient.xml
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\bin\Debug\Cheeseknife.dll
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\bin\Debug\Cheeseknife.xml
 C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\obj\Debug\MyAIB.dll.mdb
 C:\Users\Eoin\Documents\Visual Studio 2013\Projects\MyAIB\MyAIB\bin\Debug\MyAIB.dll.mdb

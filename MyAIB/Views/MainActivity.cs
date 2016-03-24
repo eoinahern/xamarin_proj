@@ -26,8 +26,10 @@ namespace MyAIB.Views
 
 
             canteenfrag = CanteenFragment.newInstance();
+            EmptyFrag emptyfrag = EmptyFrag.newInst();
             var fragmentTrans = FragmentManager.BeginTransaction();
             fragmentTrans.Add(Resource.Id.my_nested_llayout, canteenfrag);
+            fragmentTrans.Add(Resource.Id.my_nested_llayout, emptyfrag);
             fragmentTrans.Commit();
 
         }

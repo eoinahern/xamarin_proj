@@ -51,11 +51,11 @@ namespace MyAIB.Adapters
 
             if (item != null)
             {
-                ViewHolder viewholder = (ViewHolder)vh;
+                ViewHolder viewholder = ((ViewHolder)vh);
 
-                TextView name = (TextView)viewholder.getView(Resource.Id.nametxt);
-                TextView type = (TextView)viewholder.getView(Resource.Id.typetxt);
-                TextView cost = (TextView)viewholder.getView(Resource.Id.costtxt);
+                TextView name = (TextView)((ViewHolder)vh).getView(Resource.Id.nametxt);
+                TextView type = (TextView)((ViewHolder)vh).getView(Resource.Id.typetxt);
+                TextView cost = (TextView)((ViewHolder)vh).getView(Resource.Id.costtxt);
 
                 Log.Debug("name", item.title);
                 Log.Debug("type", item.descript);

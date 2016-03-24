@@ -1,3 +1,7 @@
+MyAIB.Adapters.BasicCanteenAdapter, MyAIB;md592e97a33835f007e643cca20cbf05fc5.BasicCanteenAdapter
+MyAIB.Adapters.BasicCanteenAdapter, MyAIB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md592e97a33835f007e643cca20cbf05fc5.BasicCanteenAdapter
+MyAIB.Adapters.BasicCanteenAdapter;md592e97a33835f007e643cca20cbf05fc5.BasicCanteenAdapter
+myaib.adapters.BasicCanteenAdapter;md592e97a33835f007e643cca20cbf05fc5.BasicCanteenAdapter
 MyAIB.Adapters.MyBaseAdapter`1, MyAIB;md592e97a33835f007e643cca20cbf05fc5.MyBaseAdapter_1
 MyAIB.Adapters.MyBaseAdapter`1, MyAIB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md592e97a33835f007e643cca20cbf05fc5.MyBaseAdapter_1
 MyAIB.Adapters.MyBaseAdapter`1;md592e97a33835f007e643cca20cbf05fc5.MyBaseAdapter_1
@@ -26,10 +30,18 @@ MyAIB.ViewHolders.CanteenViewHolder, MyAIB;md5ed9399c10f47dfd7c6f9fa805217403b.C
 MyAIB.ViewHolders.CanteenViewHolder, MyAIB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ed9399c10f47dfd7c6f9fa805217403b.CanteenViewHolder
 MyAIB.ViewHolders.CanteenViewHolder;md5ed9399c10f47dfd7c6f9fa805217403b.CanteenViewHolder
 myaib.viewholders.CanteenViewHolder;md5ed9399c10f47dfd7c6f9fa805217403b.CanteenViewHolder
+MyAIB.Views.Fragments.BaseCardFragment, MyAIB;md54d9acad6e415b0c1ee4f50e88dfebd90.BaseCardFragment
+MyAIB.Views.Fragments.BaseCardFragment, MyAIB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54d9acad6e415b0c1ee4f50e88dfebd90.BaseCardFragment
+MyAIB.Views.Fragments.BaseCardFragment;md54d9acad6e415b0c1ee4f50e88dfebd90.BaseCardFragment
+myaib.views.fragments.BaseCardFragment;md54d9acad6e415b0c1ee4f50e88dfebd90.BaseCardFragment
 MyAIB.Views.Fragments.CanteenFragment, MyAIB;md54d9acad6e415b0c1ee4f50e88dfebd90.CanteenFragment
 MyAIB.Views.Fragments.CanteenFragment, MyAIB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54d9acad6e415b0c1ee4f50e88dfebd90.CanteenFragment
 MyAIB.Views.Fragments.CanteenFragment;md54d9acad6e415b0c1ee4f50e88dfebd90.CanteenFragment
 myaib.views.fragments.CanteenFragment;md54d9acad6e415b0c1ee4f50e88dfebd90.CanteenFragment
+MyAIB.Views.Fragments.EmptyFrag, MyAIB;md54d9acad6e415b0c1ee4f50e88dfebd90.EmptyFrag
+MyAIB.Views.Fragments.EmptyFrag, MyAIB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54d9acad6e415b0c1ee4f50e88dfebd90.EmptyFrag
+MyAIB.Views.Fragments.EmptyFrag;md54d9acad6e415b0c1ee4f50e88dfebd90.EmptyFrag
+myaib.views.fragments.EmptyFrag;md54d9acad6e415b0c1ee4f50e88dfebd90.EmptyFrag
 MyAIB.Views.MainActivity, MyAIB;md53ac8ff3d23ab4df116bafa0c3c02b599.MainActivity
 MyAIB.Views.MainActivity, MyAIB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53ac8ff3d23ab4df116bafa0c3c02b599.MainActivity
 MyAIB.Views.MainActivity;md53ac8ff3d23ab4df116bafa0c3c02b599.MainActivity

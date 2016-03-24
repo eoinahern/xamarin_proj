@@ -15,9 +15,9 @@ namespace MyAIB.ViewHolders
 {
     public class CanteenViewHolder :RecyclerView.ViewHolder
     {
-        TextView name;
-        TextView type;
-        TextView cost;
+        public TextView name { get; set; }
+        public TextView type { get; set; }
+        public TextView cost { get; set; }
 
 
         public CanteenViewHolder(View v) :base(v)

@@ -5,4 +5,7 @@
   <color name="accent">#FFC107</color>
   <color name="window_background">#F5F5F5</color>
   <color name="canteen_main_orange">#E59400</color>
+  <color name="card_torq">#00E5EE</color>
+  <color name="card_torq_middle">#7ff2f6</color>
+  <color name="card_torq_bottom">#ccf9fb</color>
  </resources> 

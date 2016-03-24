@@ -4,6 +4,7 @@
     <AdditionalAndroidResourcePath>C:\Users\Eoin\AppData\Local\Xamarin\Android.Support.Design\23.1.1.0\embedded</AdditionalAndroidResourcePath>
     <AdditionalAndroidResourcePath>C:\Users\Eoin\AppData\Local\Xamarin\Android.Support.v4\23.1.1.0\embedded</AdditionalAndroidResourcePath>
     <AdditionalAndroidResourcePath>C:\Users\Eoin\AppData\Local\Xamarin\Android.Support.v7.AppCompat\23.1.1.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Eoin\AppData\Local\Xamarin\Android.Support.v7.CardView\23.1.1.0\embedded</AdditionalAndroidResourcePath>
     <AdditionalAndroidResourcePath>C:\Users\Eoin\AppData\Local\Xamarin\Android.Support.v7.RecyclerView\23.1.1.0\embedded</AdditionalAndroidResourcePath>
   </AdditionalAndroidResourcePaths>
   <AdditionalJavaLibraryReferences>
@@ -11,6 +12,7 @@
     <AdditionalJavaLibraryReference>C:\Users\Eoin\AppData\Local\Xamarin\Android.Support.v4\23.1.1.0\embedded\classes.jar</AdditionalJavaLibraryReference>
     <AdditionalJavaLibraryReference>C:\Users\Eoin\AppData\Local\Xamarin\Android.Support.v4\23.1.1.0\embedded\libs\internal_impl-23.1.1.jar</AdditionalJavaLibraryReference>
     <AdditionalJavaLibraryReference>C:\Users\Eoin\AppData\Local\Xamarin\Android.Support.v7.AppCompat\23.1.1.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Eoin\AppData\Local\Xamarin\Android.Support.v7.CardView\23.1.1.0\embedded\classes.jar</AdditionalJavaLibraryReference>
     <AdditionalJavaLibraryReference>C:\Users\Eoin\AppData\Local\Xamarin\Android.Support.v7.RecyclerView\23.1.1.0\embedded\classes.jar</AdditionalJavaLibraryReference>
   </AdditionalJavaLibraryReferences>
   <AdditionalNativeLibraryReferences />
